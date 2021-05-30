@@ -4,7 +4,7 @@ const AppError = require('./utils/appError');
 const connection = mysql.createConnection({
   host: '127.0.0.1',
   user: 'root',
-  password: 'reymysterio619',
+  password: '2634',
   database: 'live_polling',
   insecureAuth: true,
 });
